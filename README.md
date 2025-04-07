@@ -1,3 +1,3 @@
 # LUMOS_Responsive
 
-responsive webpage with JS
+Recreating responsive webpage to review HTML and CSS and a bit of JS. Webpage will be now be adaptive to mobile, desktop and tablet.
